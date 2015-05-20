@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nsapiro/project1inSourceTree/SunShine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/nsapiro/project1inSourceTree/SunShine/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-525b5269822e8d44c741b96a8be562be7c3cc44a.jar" />
+    </item>
+    <item
+        jar="/Users/tmpuser/AndroidStudioProjects/SunShine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/tmpuser/AndroidStudioProjects/SunShine/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-ce8ff67ba64a463c7232b184e90a118aa6adcab8.jar" />
+    </item>
+    <item
+        jar="/Users/nsapiro/project1inSourceTree/SunShine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/nsapiro/project1inSourceTree/SunShine/app/build/intermediates/pre-dexed/debug/classes-fc47f3ab1ef094465854eba8f25e0069d3f39d05.jar" />
+    </item>
+    <item
+        jar="/Users/tmpuser/AndroidStudioProjects/SunShine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/tmpuser/AndroidStudioProjects/SunShine/app/build/intermediates/pre-dexed/debug/classes-487c528db5dd221f3c5d71578f4526f1704d424f.jar" />
+    </item>
+    <item
+        jar="/Users/tmpuser/AndroidStudioProjects/SunShine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/tmpuser/AndroidStudioProjects/SunShine/app/build/intermediates/pre-dexed/debug/classes-6aa689ca363851ac560df6b57bf0d74a7db333ee.jar" />
+    </item>
+    <item
+        jar="/Users/nsapiro/project1inSourceTree/SunShine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/nsapiro/project1inSourceTree/SunShine/app/build/intermediates/pre-dexed/debug/classes-161d36f08225a716ff59ee1b31b6ab88497d7090.jar" />
+    </item>
+    <item
+        jar="/Users/nsapiro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/nsapiro/project1inSourceTree/SunShine/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-fc5049df5761e0f5a7cbe5dfc705dc5ab91133c8.jar" />
+    </item>
+
+</items>
